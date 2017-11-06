@@ -1,4 +1,5 @@
 *&---------------------------------------------------------------------*
+*& slave
 *& i057059:   Mohan
 *&Include           YY_LIB_LISP
 *& https://github.com/mydoghasworms/abap-lisp
